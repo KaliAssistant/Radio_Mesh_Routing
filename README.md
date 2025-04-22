@@ -1,2 +1,2 @@
 # Radio_Mesh_Routing
-L3-Based Mesh Routing library for Radio Mesh AREA Network
+L2.5-Based Mesh Routing library for Radio Mesh AREA Network
